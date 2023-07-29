@@ -1,5 +1,7 @@
 # TinDog-Landing
 
+![ScreenShot]([https://{url}](https://bircanali.github.io/TinDog-Landing/))
+
 # Project Title
 
 Tin Dog - is a landing page for dogs 
