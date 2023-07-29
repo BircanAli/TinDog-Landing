@@ -1,6 +1,6 @@
 # TinDog-Landing
 
-![ScreenShot]([https://{url}](https://bircanali.github.io/TinDog-Landing/))
+![ScreenShot](https://{https://bircanali.github.io/TinDog-Landing/})
 
 # Project Title
 
